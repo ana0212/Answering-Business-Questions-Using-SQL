@@ -9,3 +9,4 @@
 4) Album purchases represent 18.6% of the sales. Based on this data, we recommend to keep purchasing the whole album, so we don't lose almost a fifth of our sales.
 5) Looking at the top 10 artists with more playlists, we can see that there is not an expressive number (7 for the number one) that could lead to a change in the marketing strategy towards these artists.
 6) We found that 48,4% of the tracks of the chinook store weren't sold. This number is pretty high and represents a big problem for the business.
+- After creating the queries to answer the questions, we converted them into pandas dataframes to create graphs and visualize it.
